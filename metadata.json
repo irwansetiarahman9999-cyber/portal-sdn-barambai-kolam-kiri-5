@@ -1,7 +1,0 @@
-{
-  "name": "Portal Modern SDN Barambai Kolam Kiri 5",
-  "description": "Sistem Informasi Digital Terpadu SDN Barambai Kolam Kiri 5 dengan Kartu Identitas Pelajar 3D Interaktif, Portal Berita, Kalender Kegiatan, Layanan Akademik, dan Portal Admin.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
-
